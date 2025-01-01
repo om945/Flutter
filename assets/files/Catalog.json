@@ -1,0 +1,46 @@
+{
+  "products" : [
+    {
+      "id": 1,
+      "name": "iphone 12 pro",
+      "price": 999,
+      "desc": "Apple iPhone 12 Pro (Gold, White, Blue, Black  256 GB)",
+      "color": "#33505a",
+      "img": "https://www.apple.com/newsroom/images/product/availability/geo/Apple_iphone12mini-iphone12max-homepodmini-availability_iphone12promax-geo_110520_inline.jpg.large.jpg"
+    },
+    {
+      "id": 2,
+      "name": "ASUS TUF A15",
+      "price": 1999,
+      "desc": "Ryzen 7 HS, RTX 4050",
+      "color": "#33505a",
+      "img": "https://in.store.asus.com/media/catalog/product/1/_/1._main_f15_1.jpg?width=439&height=439&store=en_IN&image-type=image"
+    },
+    {
+      "id": 3,
+      "name": "MAC book AIR M3",
+      "price": 2999,
+      "desc": "News & UpdateApple unveils new 13-inch and 15-inch MacBook Air with M3 chip",
+      "color": "#33505a",
+      "img": "https://www.greycom.com.cy/image/cache/catalog/2024%20Products/MacBook%20Air%20M3/MacBook_Air_15-in_M3_Chip_Hero_Vertical_Screen__WWEN-500x500.jpg"
+    },
+    {
+      "id": 4,
+      "name": "PS 5",
+      "price": 3999,
+      "desc": "Sony Playstation 5 Digital Slim Edition – PS5 Digital",
+      "color": "#33505a",
+      "img": "https://i0.wp.com/shop.clarioncomputers.in/wp-content/uploads/2024/07/PS5-Disk-Edition-1.jpg?fit=600%2C600&ssl=1"
+    },
+    {
+      "id": 5,
+      "name": "iphone 16 pro max",
+      "price": 4999,
+      "desc": "iPhone 16 Pro Max Natural Titanium 256G",
+      "color": "#33505a",
+      "img": "https://www.machines.com.my/cdn/shop/files/iPhone_16_Pro_Max_Desert_Titanium_PDP_Image_Position_1a_Desert_Titanium_Colour__MY-EN.jpg?v=1725954235&width=823" 
+    }
+    
+  ]
+
+}
